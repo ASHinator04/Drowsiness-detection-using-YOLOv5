@@ -17,6 +17,6 @@ Acknowledgments
  3. Contributors and developers of related libraries and tools
 
 Instructions
-To use this project run the app.py file using cmd
-Drowsiness Detection.ipynb was used to train the custom model using yolov5 on a custom dataset using Imglabel
-best.pt is the trained model we are using in app.py
+1. To use this project run the app.py file using cmd
+2. new.ipynb was used to train the custom model using yolov5 on a custom dataset using Imglabel
+3. best.pt is the trained model we are using in app.py
