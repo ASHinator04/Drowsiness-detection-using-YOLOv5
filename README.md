@@ -3,13 +3,20 @@ This repository contains the codebase and resources for a drowsiness detection s
 
 Requirements
 
-Python 3.x
-YOLOv5
-OpenCV (Additional dependencies listed in requirements.txt)
-git clone https://github.com/username/drowsiness-detection.git pip install -r requirements.txt
+ 1. Python 3.x
+ 2. YOLOv5
+ 3. OpenCV (Additional dependencies listed in requirements.txt)
+
+git clone https://github.com/username/drowsiness-detection.git
+pip install -r requirements.txt
 
 Acknowledgments
 
-YOLOv5 by Ultralytics
-OpenCV community
-Contributors and developers of related libraries and tools
+ 1. YOLOv5 by Ultralytics
+ 2. OpenCV community
+ 3. Contributors and developers of related libraries and tools
+
+Instructions
+To use this project run the app.py file using cmd
+Drowsiness Detection.ipynb was used to train the custom model using yolov5 on a custom dataset using Imglabel
+best.pt is the trained model we are using in app.py
